@@ -1,0 +1,12 @@
+s s s s s s s s s s s s s s s s s s s s
+s k  t  m3         sp sp2 m4   s
+s  m2 t                s
+s   t d4 d5 t t t t t t t t t t t  m5 s
+s   t   r3 t i2 t  k5 t i  k2 t   s
+s   t  k4  t  t   t    t   s
+s   t  i3  t  t   t    t   s
+s   t r1   t  d10 r2  t    t   s
+s m1  t t t t t t t d8 d9 t d d2 d3 t d6 d7 s
+s   r4                s
+s                  k3 s
+s s s s s s s s s s s s s s s s s s s s

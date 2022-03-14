@@ -1,0 +1,12 @@
+    s s s s s s s s s s s s   sp sp2 sp3 sp4
+   t t m1     i2      t t   
+  t t  m2           t t  
+ t t    t t t t t t t t    t t 
+s t    t         t    t s
+s    d          i t    s
+s    d2           t   k s
+s t    t         t    t s
+ t t    t t t t t t t t    t t 
+  t t  m3           t t  
+   t t m4     i3     t t   
+    s s s s s s s s s s s s    
