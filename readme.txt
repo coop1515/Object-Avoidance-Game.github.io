@@ -1,9 +1,9 @@
 설치방법 :
-1) cmd창또는 파이썬 프로그램에서 pip install pygame을 입력하여 pygame 라이브러리를 다운받아서 소스파일 실행.
-2) graduate 폴더를 바탕화면에 압축을 푼 뒤 graduate 실행파일을 실행한다. 다른 폴더에 집어넣거나 파일을 옮기게되면 실행이 되지않음.
+1) pip install pygame in cmd or Vs code
+2) source file debug
 
 Operation Manual
-1. player 조작 키는 w a s d 순서대로 위 왼쪽 밑 오른쪽.
-2. 장애물에 닿게되면 리스폰자리로 귀환하고 hp가 1 감소.
-3. 별을 3개 모두 획득하게 되거나 hp를 모두 소모하게 되면 게임이 끝남.
+1. player key = w a s d (up left down right)
+2. If you run into an obstacle, you'll bleed 1 and respawn.
+3. If you win all three stars, you win the game, and if you consume all hp, the game is over.
 
