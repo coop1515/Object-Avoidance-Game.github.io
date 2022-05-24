@@ -1,4 +1,4 @@
-설치방법 :
+exe 설치방법 :
 1) pip install pygame in cmd or Vs code
 2) source file debug
 
